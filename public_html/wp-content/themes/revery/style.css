@@ -1,0 +1,95 @@
+/*
+Theme Name: Revery
+Theme URI: https://dezigndigital.com.au/themes/revery/
+Author: Dezign Digital
+Author URI: https://dezigndigital.com.au/ 
+Description: Revery provides complete full-site editing capabilities combined with seamless cross-browser compatibility. Designed to be fully responsive and mobile-friendly with an intuitive sidebar layout, it adapts beautifully to any device or screen size. Customising your website has never been simpler. With Revery, you can effortlessly adjust colors, fonts, typography, layouts, and more—all tailored to match your vision. The powerful block editor makes building and personalising your site intuitive, flexible, and hassle-free. Carefully crafted and thoughtfully developed, Revery comes with multiple style variations to suit any design preference. Experience the perfect blend of functionality and aesthetics. Try Revery today and discover why you’ll never need another theme. 
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 5.7
+Version: 1.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: revery
+Tags: blog, portfolio, education, one-column, custom-logo, full-site-editing, block-patterns, featured-images, style-variations, threaded-comments, translation-ready, block-styles
+*/
+
+.main-menu button {
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background: var(--wp--preset--color--hovercolor);
+    color: #fff;
+}
+
+.main-menu svg {
+    width: 44px;
+    height: 44px;
+    text-align: center;
+}
+
+.main-menu .wp-block-navigation__responsive-container-close {
+    text-align: center;
+}
+
+.main-menu .wp-block-navigation__responsive-container-close svg {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+@media screen and (min-width: 601px) {
+    footer .desktop-hide {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 782px) {
+    aside.mobile-header {
+        flex-direction: row;
+        align-items: center;
+        min-height: auto !important;
+    }
+
+    aside .mbl-hide {
+        display: none;
+    }
+
+    main .sidebar-wrap {
+        padding-top: 30px !important;
+        padding-bottom: 20px !important;
+    }
+
+    main .main-content-wrap {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+}
+
+/* Change the WordPress default css to a 782px media query */
+@media (min-width: 782px) {
+    .wp-block-navigation__responsive-container-open:not(.always-shown) {
+        display: none !important;
+    }
+
+    .wp-block-navigation__responsive-container:not(.hidden-by-default):not(.is-menu-open) {
+        display: block !important;
+        width: 100%;
+        position: relative;
+        z-index: auto;
+        background-color: inherit;
+    }
+}
+
+/* Remove the WordPress default for 600px */
+@media (min-width: 600px) {
+    .wp-block-navigation__responsive-container-open:not(.always-shown) {
+        display: flex;
+    }
+
+    .wp-block-navigation__responsive-container:not(.hidden-by-default):not(.is-menu-open) {
+        display: none;
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "version": 2,
+    "$schema": "https://schemas.wp.org/wp/6.4/theme.json",
+    "title": "Dark",
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "color": "#f3f3f3",
+                    "name": "Primary",
+                    "slug": "primary"
+                },
+                {
+                    "color": "#afafaf",
+                    "name": "Hover Color",
+                    "slug": "hovercolor"
+                }
+            ]
+        }
+    },
+    "styles": {
+        "color": {
+            "background": "#141414",
+            "text": "#fff"
+        },
+        "elements": {
+            "heading": {
+                "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--castoro)"
+                }
+            }
+        },
+        "typography": {
+            "fontFamily": "var(--wp--preset--font-family--castoro)"
+        }
+    }
+}

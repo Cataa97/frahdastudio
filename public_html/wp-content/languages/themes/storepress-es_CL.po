@@ -1,0 +1,712 @@
+# Translation of Themes - StorePress in Spanish (Chile)
+# This file is distributed under the same license as the Themes - StorePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-04-23 23:48:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_CL\n"
+"Project-Id-Version: Themes - StorePress\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "StorePress is a Multipurpose WooCommerce Theme designed for all kinds of e-commerce websites like clothes, electronics, fashion, furniture, jewelry, organic, product landing page, modern shop, minimal store, etc. The goal was to design something that offers all the possible features you need to create your amazing website. The theme is a very user-friendly platform and is suitable for eCommerce Stores. Checkout the Pro Demo https://vfthemes.com/theme-demo/storepress-pro/"
+msgstr "StorePress es un Tema Multipropósito para WooCommerce diseñado para todo tipo de webs de comercio electrónico como una de ropa, electrónica, moda, muebles, joyería, orgánico, página de presentación de producto, una tienda moderna, una tienda mínimalista, etc. El objetivo era diseñar algo que ofreciera todas las funciones posibles que necesitas para crear una web increíble. El tema es una plataforma muy fácil de usar y es muy bueno para tiendas de comercio electrónico. Echa un vistazo a la Demo Pro https://vfthemes.com/theme-demo/storepress-pro/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "StorePress"
+msgstr "StorePress"
+
+#: inc/template-tags.php:244
+msgid "Get started with StorePress"
+msgstr "Primeros pasos con StorePress"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/template-tags.php:238
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "¡Bienvenido! ¡Gracias por elegir %1$s!"
+
+#: inc/template-tags.php:231
+msgid "Theme Screenshot"
+msgstr "Captura de pantalla del tema"
+
+#: inc/customizer/customizer-upsale/class-customize.php:79
+msgid "Pro Demo"
+msgstr "Demo Pro"
+
+#: inc/customizer/customizer-upsale/class-customize.php:77
+msgid "Upgrade to Pro"
+msgstr "Actualizar a Pro"
+
+#: inc/customizer/customizer-upsale/class-customize.php:76
+msgid "StorePress Pro"
+msgstr "StorePress Pro"
+
+#: woocommerce/content-product.php:48
+msgid "out of 5"
+msgstr "de 5"
+
+#: woocommerce/content-product.php:48
+msgid "Rated %s out of 5"
+msgstr "Valorado %s de 5"
+
+#: woocommerce/content-product.php:39 woocommerce/content-product.php:41
+msgid "Sale"
+msgstr "Oferta"
+
+#: woocommerce/cart/mini-cart.php:105 woocommerce/cart/mini-cart.php:205
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+#: woocommerce/cart/mini-cart.php:98 woocommerce/cart/mini-cart.php:198
+msgid "Checkout"
+msgstr "Finalizar compra"
+
+#: woocommerce/cart/mini-cart.php:97 woocommerce/cart/mini-cart.php:197
+msgid "View Cart"
+msgstr "Ver carrito"
+
+#: woocommerce/cart/mini-cart.php:92 woocommerce/cart/mini-cart.php:192
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/cart/mini-cart.php:47 woocommerce/cart/mini-cart.php:147
+msgid "Remove this item"
+msgstr "Eliminar este elemento"
+
+#. Template Name of the theme
+msgid "Page Full Width"
+msgstr "Página de ancho completo"
+
+#. Template Name of the theme
+#: inc/customizer/customizer-settings/storepress-blog.php:7
+msgid "Frontpage"
+msgstr "Página de inicio"
+
+#: template-parts/sections/section-header.php:106
+msgid "Header Above Collapse"
+msgstr "Colapsar encina de la cabecera"
+
+#: template-parts/sections/section-header.php:99
+msgid "Header Close Menu"
+msgstr "Cerrar menú de cabecera"
+
+#: template-parts/sections/section-header.php:90
+msgid "Menu Collaped"
+msgstr "Menú colapsado"
+
+#: template-parts/sections/section-header.php:34
+msgid "Search Products"
+msgstr "Buscar productos"
+
+#: template-parts/sections/section-footer.php:43
+msgid "<a href=\"#\">Vf Themes</a>"
+msgstr "<a href=\"#\">Vf Themes</a>"
+
+#: template-parts/content/content.php:33
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:28
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-page.php:27
+#: template-parts/content/content-search.php:27
+msgid "Posted by"
+msgstr "Publicado por"
+
+#: template-parts/content/content-none.php:16
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Quizás probar otra búsqueda puede ser últil."
+
+#: template-parts/content/content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content/content-none.php:12
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: single.php:49 template-parts/content/content-page-2.php:47
+#: template-parts/content/content-page.php:42
+#: template-parts/content/content-search.php:42
+msgid "Read More"
+msgstr "Leer más"
+
+#: single.php:40 template-parts/content/content-page-2.php:31
+msgid "Comments"
+msgstr "Comentarios"
+
+#: searchform.php:11
+msgid "Search …"
+msgstr "Buscar ..."
+
+#: searchform.php:10
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: inc/theme-functions.php:459
+msgid "CLOSE"
+msgstr "CERRAR"
+
+#: inc/theme-functions.php:458
+msgid "Shopping Cart"
+msgstr "Carrito"
+
+#: inc/theme-functions.php:449 inc/theme-functions.php:506
+msgid "0"
+msgstr "0"
+
+#: inc/theme-functions.php:416
+msgid "Search Popup Close"
+msgstr "Cerrar la ventana emergente de la búsqueda"
+
+#: inc/theme-functions.php:413
+msgid "Type To Search"
+msgstr "Escribe para buscar"
+
+#: inc/theme-functions.php:412
+msgid "Site Search"
+msgstr "Buscar en el sitio"
+
+#: inc/theme-functions.php:407
+msgid "Search Popup"
+msgstr "Ventana emergente de búsqueda"
+
+#: inc/theme-functions.php:392
+msgid "Page"
+msgstr "Página"
+
+#: inc/theme-functions.php:387
+msgid "Error 404 "
+msgstr "Error 404 "
+
+#: inc/theme-functions.php:383
+msgid "Articles posted by "
+msgstr "Artículos publicados por "
+
+#: inc/theme-functions.php:377
+msgid "Posts tagged "
+msgstr "Entradas con la etiqueta "
+
+#: inc/theme-functions.php:268
+msgid "Archive by category"
+msgstr "Archivo por categoría"
+
+#: inc/theme-functions.php:248
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/customizer/customizer-settings/storepress-blog.php:43
+#: inc/customizer/customizer-settings/storepress-general.php:24
+#: inc/customizer/customizer-settings/storepress-general.php:74
+#: inc/customizer/customizer-settings/storepress-header.php:64
+#: inc/customizer/customizer-settings/storepress-header.php:107
+#: inc/customizer/customizer-settings/storepress-header.php:151
+#: inc/customizer/customizer-settings/storepress-header.php:192
+#: inc/customizer/customizer-settings/storepress-header.php:311
+#: inc/customizer/customizer-settings/storepress-header.php:360
+#: inc/theme-functions.php:246 inc/theme-functions.php:249
+msgid "1"
+msgstr "1"
+
+#: inc/theme-functions.php:155 template-parts/sections/section-header.php:22
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:62
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:55
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#: inc/template-tags.php:48
+msgid "Tagged %1$s"
+msgstr "Etiquetado como %1$s"
+
+#: inc/template-tags.php:42
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:40 inc/template-tags.php:46
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:28
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:23
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#: inc/customizer/customizer-settings/storepress-plugin-recommendation.php:20
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/customizer/customizer-settings/storepress-plugin-recommendation.php:19
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/customizer/customizer-settings/storepress-plugin-recommendation.php:18
+msgid "Install and Activate"
+msgstr "Instalar y activar"
+
+#: inc/customizer/customizer-settings/storepress-plugin-recommendation.php:17
+msgid "Recommended Plugin"
+msgstr "Plugin recomendado"
+
+#: inc/customizer/customizer-settings/storepress-plugin-recommendation.php:16
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: inc/customizer/customizer-settings/storepress-plugin-recommendation.php:12
+#: inc/template-tags.php:242
+msgid "Install and activate <strong>Vf Expansion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instala y activa el plugin <strong>Vf Expansion</strong> para aprovechar al máximo todas las funciones que ofrece este tema."
+
+#: inc/customizer/customizer-settings/storepress-plugin-recommendation.php:8
+msgid "Install and activate <strong>WooCommerce</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instala y activa el plugin <strong>WooCommerce</strong> para aprovechar al máximo todas las características que ofrece este tema."
+
+#: inc/customizer/customizer-settings/storepress-header.php:334
+#: inc/customizer/customizer-settings/storepress-header.php:353
+msgid "Sticky Header"
+msgstr "Cabecera fija"
+
+#: inc/customizer/customizer-settings/storepress-header.php:302
+msgid "Product Categories"
+msgstr "Categorías de producto"
+
+#: inc/customizer/customizer-settings/storepress-header.php:183
+msgid "Contact Info"
+msgstr "Información de contacto"
+
+#: inc/customizer/customizer-settings/storepress-header.php:141
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: inc/customizer/customizer-settings/storepress-header.php:97
+msgid "Cart"
+msgstr "Carrito"
+
+#: inc/customizer/customizer-settings/storepress-header.php:73
+#: inc/customizer/customizer-settings/storepress-header.php:116
+#: inc/customizer/customizer-settings/storepress-header.php:160
+#: inc/customizer/customizer-settings/storepress-header.php:201
+#: inc/customizer/customizer-settings/storepress-header.php:320
+#: inc/customizer/customizer-settings/storepress-header.php:370
+msgid "Hide/Show"
+msgstr "Ocultar/Mostrar"
+
+#: inc/customizer/customizer-settings/storepress-header.php:54
+#: searchform.php:13
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/customizer/customizer-settings/storepress-header.php:34
+msgid "Header Navigation"
+msgstr "Navegación de la cabecera"
+
+#: inc/customizer/customizer-settings/storepress-header.php:23
+msgid "Site Identity"
+msgstr "Identidad del sitio"
+
+#: inc/customizer/customizer-settings/storepress-general.php:174
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/customizer/customizer-settings/storepress-general.php:84
+msgid "Hide / Show Section"
+msgstr "Ocultar / Mostrar sección"
+
+#: inc/customizer/customizer-settings/storepress-general.php:65
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/customizer/customizer-settings/storepress-general.php:45
+msgid "Breadcrumb Section"
+msgstr "Sección de migas de pan"
+
+#: inc/customizer/customizer-settings/storepress-general.php:34
+msgid "Hide / Show Scroller"
+msgstr "Ocultar / Mostrar desplazamientoer"
+
+#: inc/customizer/customizer-settings/storepress-general.php:15
+msgid "Top Scroller"
+msgstr "Desplazamiento superior"
+
+#: inc/customizer/customizer-settings/storepress-general.php:7
+msgid "General"
+msgstr "Generales"
+
+#: inc/customizer/customizer-settings/storepress-footer.php:139
+msgid "Copytight"
+msgstr "Copyright"
+
+#: inc/customizer/customizer-settings/storepress-footer.php:125
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Funciona gracias a [theme_author]"
+
+#: inc/customizer/customizer-settings/storepress-footer.php:119
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/customizer-settings/storepress-footer.php:99
+msgid "Footer Copyright"
+msgstr "Copyright en el pie"
+
+#: inc/customizer/customizer-settings/storepress-footer.php:21
+msgid "Footer Background"
+msgstr "Fondo del pie de página"
+
+#: inc/customizer/customizer-settings/storepress-footer.php:10
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer/customizer-settings/storepress-customizer-notify.php:113
+msgid "Activating"
+msgstr "Activando"
+
+#: inc/customizer/customizer-settings/storepress-blog.php:201
+#: inc/customizer/customizer-settings/storepress-footer.php:78
+#: inc/customizer/customizer-settings/storepress-general.php:145
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: inc/customizer/customizer-settings/storepress-blog.php:181
+#: inc/customizer/customizer-settings/storepress-footer.php:59
+#: inc/customizer/customizer-settings/storepress-general.php:125
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer/customizer-settings/storepress-blog.php:163
+#: inc/customizer/customizer-settings/storepress-footer.php:41
+#: inc/customizer/customizer-settings/storepress-general.php:107
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/customizer-settings/storepress-blog.php:132
+msgid "No. of Posts Display"
+msgstr "Nº entradas a mostar"
+
+#: inc/customizer/customizer-settings/storepress-blog.php:113
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/customizer/customizer-settings/storepress-blog.php:73
+#: inc/customizer/customizer-settings/storepress-header.php:12
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer/customizer-settings/storepress-blog.php:54
+msgid "Hide / Show"
+msgstr "Ocultar / Mostrar"
+
+#: inc/customizer/customizer-settings/storepress-blog.php:34
+msgid "Setting"
+msgstr "Ajuste"
+
+#: inc/customizer/customizer-settings/storepress-blog.php:15
+msgid "Blog Section"
+msgstr "Sección de blog"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:914
+msgid "Subtitle 3"
+msgstr "Subtítulo 3"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:859
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:892
+msgid "Add Icon"
+msgstr "Agregar ícono"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:854
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:884
+msgid "Remove Icon"
+msgstr "Eliminar ícono"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:837
+msgid "Social icons"
+msgstr "Íconos sociales"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:829
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:824
+msgid "Image type"
+msgstr "Tipo de imagen"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:813
+msgid "Center"
+msgstr "Centro"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:809
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:805
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:801
+msgid "Slide Align"
+msgstr "Alineación de diapositiva"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:790
+msgid "Image 2"
+msgstr "Imagen 2"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:764
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:793
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:761
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:828
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:726
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:725
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Nota: algunos íconos no se muestran aquí. Puedes ver la lista completa de íconos en %1$s."
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:720
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:827
+#: inc/customizer/customizer-settings/storepress-header.php:220
+msgid "Icon"
+msgstr "Ícono"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:709
+msgid "Open link in new tab:"
+msgstr "Abrir enlace en una nueva pestaña:"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:673
+msgid "Delete field"
+msgstr "Borrar campo"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:617
+msgid "Button Label 3"
+msgstr "Etiqueta del botón 3"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:584
+msgid "Button Label Second"
+msgstr "Etiqueta del segundo botón"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:501
+msgid "Delete %s"
+msgstr "Borrar %s"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:485
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:662
+msgid "Designation"
+msgstr "Denominación"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:477
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:653
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:467
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:536
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:435
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:638
+msgid "Video Url"
+msgstr "URL del video"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:413
+msgid "Button Label Third"
+msgstr "Etiqueta del tercer botón"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:404
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:421
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:592
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:625
+msgid "link"
+msgstr "enlace"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:395
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:609
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:851
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:873
+#: inc/customizer/customizer-settings/storepress-header.php:279
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:384
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:599
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:375
+msgid "Button Label second"
+msgstr "Etiqueta del segundo botón"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:367
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:576
+msgid "Button Label"
+msgstr "Etiqueta del Botón"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:360
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:569
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:352
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:560
+msgid "Subtitle 2"
+msgstr "Subtítulo 2"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:344
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:552
+#: inc/customizer/customizer-settings/storepress-header.php:260
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:336
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:544
+#: inc/customizer/customizer-settings/storepress-blog.php:92
+#: inc/customizer/customizer-settings/storepress-header.php:240
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:45
+msgid "Customizer Repeater"
+msgstr "Repetidor del personalizador"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:40
+msgid "Add new field"
+msgstr "Agregar un campo nuevo"
+
+#: inc/class-wp-bootstrap-navwalker.php:365
+msgid "Add a menu"
+msgstr "Agrega un menú"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:130
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Este área de widgets es para el widget de WooCommerce"
+
+#: functions.php:128
+msgid "WooCommerce Widget Area"
+msgstr "Área de widgets de WooCommerce"
+
+#: functions.php:120
+msgid "Footer Widget 3"
+msgstr "Widget de Pie de Página 3"
+
+#: functions.php:118
+msgid "Footer Widget Area 3"
+msgstr "Área 3 del widget de pie de página"
+
+#: functions.php:110
+msgid "Footer Widget 2"
+msgstr "Widget de pie de página 2"
+
+#: functions.php:108
+msgid "Footer Widget Area 2"
+msgstr "Área 2 de widgets de pie de página"
+
+#: functions.php:100
+msgid "Footer Widget 1"
+msgstr "Widget de pie de página 1"
+
+#: functions.php:98
+msgid "Footer Widget Area 1"
+msgstr "Área 1 de widgets de pie de página"
+
+#: functions.php:90
+msgid "The Primary Widget Area"
+msgstr "Área de widgets principal"
+
+#: functions.php:88
+msgid "Sidebar Widget Area"
+msgstr "Área de widgets de la barra lateral"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:7
+msgid "scrollUp"
+msgstr "desplazamientoUp"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: 404.php:21
+msgid "Continue Shopping"
+msgstr "Seguir comprando"
+
+#: 404.php:19
+msgid "The page you requested does not exist."
+msgstr "La página que has pedido no existe."
+
+#: 404.php:18
+msgid "404"
+msgstr "404"
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr "Página no encontrada"
+
+#: inc/theme-functions.php:274
+msgid "Search results for "
+msgstr "Resultados de búsqueda para "
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://vfthemes.com/themes/storepress-free/"
+msgstr "https://vfthemes.com/themes/storepress-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://vfthemes.com/"
+msgstr "https://vfthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "vfthemes"
+msgstr "vfthemes"

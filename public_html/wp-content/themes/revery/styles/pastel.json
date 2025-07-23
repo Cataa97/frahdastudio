@@ -1,0 +1,34 @@
+{
+    "version": 2,
+    "$schema": "https://schemas.wp.org/wp/6.4/theme.json",
+    "title": "Pastel",
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "color": "#dd2e86",
+                    "name": "Primary",
+                    "slug": "primary"
+                },
+                {
+                    "color": "#BB6464",
+                    "name": "Hover Color",
+                    "slug": "hovercolor"
+                }
+            ]
+        }
+    },
+    "styles": {
+        "color": {
+            "background": "#F8EDE3",
+            "text": "#85586F"
+        },
+        "elements": {
+            "heading": {
+                "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--lora)"
+                }
+            }
+        }
+    }
+}

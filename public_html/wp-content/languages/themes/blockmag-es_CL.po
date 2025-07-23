@@ -1,0 +1,849 @@
+# Translation of Themes - BlockMag in Spanish (Chile)
+# This file is distributed under the same license as the Themes - BlockMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-04-16 23:58:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_CL\n"
+"Project-Id-Version: Themes - BlockMag\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "BlockMag is a free magazine WordPress block theme for full site editing. This theme is fully responsive, intuitive, and visually appealing. It is a beautifully designed theme perfect for building magazines and news websites. This block-based theme comes with an array of powerful customization options. The theme includes an eye-catchy light color scheme that looks more appealing. With the help of an intuitive drag-and-drop interface, you can easily customize your site. The theme includes simple and easy-to-use block patterns. There are 19+ block patterns, 11 Templates, and 8 Templates Parts available in this theme to help you build the magazine site the way you want. Some of the block patterns are 404 Header, Ad Full Width After Header, CTA, Cover News, Featured News, Footer Three Columns, Header With Buttons, Header With Logo Center, Recent Blog With Sidebar, Search Header, Post Header Without BG, Logo With No Title, and many more. All the block patterns, Templates, and Templates Parts are fully responsive adapt to all screen sizes, are highly customizable, and have fast loading. Download BlockMag today and start building an amazing magazine website!"
+msgstr "BlockMag es un tema de bloques gratuito de WordPress para revistas, que permite la edición completa del sitio. Este tema es totalmente adaptable, intuitivo y visualmente atractivo. Es un tema bellamente diseñado, perfecto para crear webs de revistas y noticias. Este tema basado en bloques viene con una colección de potentes opciones de personalización. El tema incluye un llamativo esquema de colores claros que resulta más atractivo. Con la ayuda de una intuitiva interfaz de arrastrar y soltar, puedes personalizar fácilmente tu sitio. El tema incluye patrones de bloques sencillos y fáciles de usar. Hay más de 19 patrones de bloques, 11 plantillas y 8 partes de plantillas disponibles en este tema para ayudarte a construir el sitio de la revista como tú quieras. Algunos de los patrones de bloques son cabecera 404, anuncio de ancho completo tras la cabecera, CTA, noticias de portada, noticias destacadas, pie de página a tres columnas, cabecera con botones, cabecera con logotipo central, blog reciente con barra lateral, cabecera de búsqueda, cabecera de entrada sin fondo, logotipo sin título, y muchos más. Todos los patrones de bloques, plantillas y partes de plantillas son totalmente adaptables, se adaptan a todos los tamaños de pantalla, son altamente personalizables y tienen una carga rápida. ¡Descarga BlockMag hoy mismo y empieza a crear una web de revista increíble!"
+
+#. Theme Name of the theme
+#: style.css inc/about.php:49 inc/about.php:97 inc/block-patterns.php:18
+#, gp-priority: high
+msgid "BlockMag"
+msgstr "BlockMag"
+
+#: inc/about.php:353
+msgid "Team slider"
+msgstr "Carrusel de equipo"
+
+#: inc/about.php:348
+msgid "Team"
+msgstr "Equipo"
+
+#: inc/about.php:343
+msgid "Style news"
+msgstr "Estilos de noticias"
+
+#: inc/about.php:338
+msgid "Servies"
+msgstr "Servicios"
+
+#: inc/about.php:333
+msgid "Portfolio"
+msgstr "Portafolio"
+
+#: inc/about.php:328
+msgid "Logo"
+msgstr "Logotipo"
+
+#: inc/about.php:323
+msgid "Logo Slider"
+msgstr "Carrusel de logos"
+
+#: inc/about.php:318
+msgid "Post Header"
+msgstr "Cabecera de la entrada"
+
+#: inc/about.php:313
+msgid "Lifestyle News"
+msgstr "Noticias de estilo de vida"
+
+#: inc/about.php:308
+msgid "Latest Products"
+msgstr "Últimos productos"
+
+#: inc/about.php:303
+msgid "How it works"
+msgstr "Cómo funciona"
+
+#: inc/about.php:298
+msgid "Header with Logo Center"
+msgstr "Cabecera con logotipo en el centro"
+
+#: inc/about.php:293
+msgid "Header with Cart"
+msgstr "Cabecera con carrito"
+
+#: inc/about.php:288
+msgid "Header Default"
+msgstr "Cabecera por defecto"
+
+#: inc/about.php:283
+msgid "Footer Four Columns"
+msgstr "Pie de página cuatro columnas"
+
+#: inc/about.php:278
+msgid "Footer Three columns"
+msgstr "Pie de página tres columnas"
+
+#: inc/about.php:273
+msgid "Footer Default"
+msgstr "Pie de página por defecto"
+
+#: inc/about.php:268
+msgid "Featured Videos"
+msgstr "Videos destacados"
+
+#: inc/about.php:263
+msgid "Featured News"
+msgstr "Noticias destacadas"
+
+#: inc/about.php:258
+msgid "Featured Content"
+msgstr "Contenido destacado"
+
+#: inc/about.php:253
+msgid "Featured Categories"
+msgstr "Categorías destacadas"
+
+#: inc/about.php:248
+msgid "CTA"
+msgstr "CTA"
+
+#: inc/about.php:243
+msgid "CTA With Video"
+msgstr "CTA con video"
+
+#: inc/about.php:238
+msgid "CTA Just Video"
+msgstr "CTA Solo video"
+
+#: inc/about.php:233
+msgid "Cover News"
+msgstr "Noticias de portada"
+
+#: inc/about.php:228
+msgid "Clients Testimonial"
+msgstr "Recomendaciones de clientes"
+
+#: inc/about.php:223
+msgid "Category wise News"
+msgstr "Categoría noticias"
+
+#: inc/about.php:218
+msgid "Blog Header"
+msgstr "Cabecera del blog"
+
+#: inc/about.php:213
+msgid "Blog Header without BG"
+msgstr "Cabecera de blog sin fondo"
+
+#: inc/about.php:208
+msgid "Archive Header"
+msgstr "Cabecera de archivo"
+
+#: inc/about.php:203
+msgid "Archive Header Without BG"
+msgstr "Cabecera de archivo sin fondo"
+
+#: inc/about.php:198
+msgid "Ad Full Width"
+msgstr "Anuncio de ancho completo"
+
+#: inc/about.php:193
+msgid "Ad Full Width Second"
+msgstr "Anuncio ancho completo segundo"
+
+#: inc/about.php:188
+msgid "Ad Full Width After Header"
+msgstr "Anuncio de ancho completo después de la cabecera"
+
+#: inc/about.php:178
+msgid "About us with Stats"
+msgstr "Acerca de nosotros con estadísticas"
+
+#: inc/about.php:173
+msgid "404 Header"
+msgstr "Cabecera 404"
+
+#: inc/about.php:168
+msgid "Block : Playlist "
+msgstr "Bloque : Lista de reproducción "
+
+#: inc/about.php:163
+msgid "Block : Tabs"
+msgstr "Bloque : Pestañas"
+
+#: inc/about.php:158
+msgid "Block : Slider"
+msgstr "Bloque : Carrusel"
+
+#: inc/about.php:153
+msgid "Block : Date"
+msgstr "Bloque : Fecha"
+
+#: inc/about.php:148
+msgid "Block : Icons"
+msgstr "Bloque : Íconos"
+
+#: inc/about.php:143
+msgid "Block : Header Social"
+msgstr "Bloque : Social cabecera"
+
+#: inc/about.php:138
+msgid "Block : Header Search "
+msgstr "Bloque : Búsqueda en la cabecera "
+
+#: inc/about.php:133
+msgid "Block : Popup Video"
+msgstr "Bloque : Video emergente"
+
+#: inc/about.php:128
+msgid "Block : Masonry"
+msgstr "Bloque : Muro"
+
+#: inc/about.php:123
+msgid "Block : Skills Bar"
+msgstr "Bloque : Barra de habilidades"
+
+#: inc/about.php:118
+msgid "Block : Case Study"
+msgstr "Bloque : Estudio de caso"
+
+#: inc/about.php:113
+msgid "Color Options for various sections"
+msgstr "Opciones de color para varias secciones"
+
+#: inc/about.php:108
+msgid "Super Easy Setup"
+msgstr "Configuración superfácil"
+
+#: inc/about.php:103
+msgid "Responsive Design"
+msgstr "Diseño adaptable"
+
+#: inc/about.php:96
+msgid "Features"
+msgstr "Características"
+
+#: inc/about.php:92
+msgid "Compare Free Vs Pro"
+msgstr "Comparar gratis frente a pro"
+
+#: inc/about.php:22
+msgid "Get BlockMag Pro"
+msgstr "Obtener BlockMag Pro"
+
+#: inc/about.php:20
+msgid "Get your hands on the WordPress Full Site Editing features. Start building your website with advanced block patterns and custom blocks! Get additional 50+ Pre-Designed Block Patterns and 10+ Custom Blocks that are highly customizable and fully responsive."
+msgstr "Ponte manos a la obra con las características de edición completa del sitio de WordPress. ¡Empieza a construir tu web con patrones de bloques avanzados y bloques personalizados! Consigue más de 50 patrones de bloques prediseñados y más de 10 bloques personalizados altamente personalizables y totalmente adaptables."
+
+#: inc/about.php:19 inc/about.php:98
+msgid "BlockMag Pro"
+msgstr "BlockMag Pro"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Barra lateral "
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Content"
+msgstr "Contenido de la página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Content"
+msgstr "Contenido de la entrada"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer (With Three Columns)"
+msgstr "Pie de página (Con 3 columnas)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (With Logo Center)"
+msgstr "Cabecera (con logotipo en el centro)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (With Buttons)"
+msgstr "Cabecera (con botones)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr "Página individual (barra lateral a la derecha)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Right)"
+msgstr "Entrada individual (barra lateral a la derecha)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Front Page"
+msgstr "Página de inicio"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Vacío"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Link and tertiary"
+msgstr "Enlace y terciario"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Link and secondary"
+msgstr "Enlace y secundario"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Link and background"
+msgstr "Enlace y fondo"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr "Primer plano y terciario"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr "Primer plano y secundario"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr "Primer plano y fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Horizontal Deep Orange to Eucalyptus"
+msgstr "Horizontal naranja profundo a eucalipto"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Horizontal Gradient Background to Background"
+msgstr "De fondo degradado horizontal a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Horizontal Root Beer to Rick Black"
+msgstr "Horizontal tostado a negro"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Horizontal Rick Black to Root Beer"
+msgstr "Horizontal negro a tostado"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr "Diagonal fondo a terciario"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr "Diagonal terciario a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr "Diagonal fondo a secundario"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr "Diagonal secundario a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to foreground"
+msgstr "Diagonal secundario a primer plano"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical background to tertiary"
+msgstr "Vertical fondo a terciario"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr "Vertical terciario a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr "Vertical secundario a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr "Vertical secundario a terciario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color White"
+msgstr "Color blanco"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Picton Blue"
+msgstr "Picton azul"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Eucalyptus"
+msgstr "Eucalipto"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Deep Orange"
+msgstr "Naranja intenso"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Woodsmoke"
+msgstr "Humo de leña"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color Dark"
+msgstr "Color oscuro"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color Light"
+msgstr "Color claro"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dune"
+msgstr "Duna"
+
+#: theme.json
+msgctxt "Color name"
+msgid "White Smoke"
+msgstr "Humo blanco"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Ironside Grey"
+msgstr "Gris acero"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Root Beer"
+msgstr "Tostado"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Rick Black"
+msgstr "Negro"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr "Texto del cuerpo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Link"
+msgstr "Enlace de texto"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer plano"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Libre Baskerville"
+msgstr "Libre Baskerville"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Colossal (Extremely Large)"
+msgstr "Colosal (Extremadamente grande)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr "Enorme (Pantalla)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large (Recent Post Title)"
+msgstr "Extragrande (Título de entradas recientes)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr "Encabezado del contenido"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr "Encabezado superior"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediana"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeña"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Extra pequeña"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Diminuta"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Barra lateral "
+
+#: patterns/search-header.php
+msgctxt "Pattern title"
+msgid "Search Header"
+msgstr "Buscador cabecera"
+
+#: patterns/recent-blog-with-sidebar.php
+msgctxt "Pattern title"
+msgid "Recent Blog With Sidebar"
+msgstr "Blog reciente con barra lateral"
+
+#: patterns/post-header-without-bg.php
+msgctxt "Pattern title"
+msgid "Post Header Without BG"
+msgstr "Cabecera de entrada sin fondo"
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "latest News"
+msgstr "últimas noticias"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr "404 oculto"
+
+#: patterns/header-with-logo-center.php
+msgctxt "Pattern title"
+msgid "Header With Logo Center"
+msgstr "Cabecera con logotipo en el centro"
+
+#: patterns/header-with-buttons.php
+msgctxt "Pattern title"
+msgid "Header With Buttons"
+msgstr "Cabecera con botones"
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr "Cabecera por defecto"
+
+#: patterns/footer-three-columns.php
+msgctxt "Pattern title"
+msgid "Footer Three Columns"
+msgstr "Pie de página tres columnas"
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr "Pie de página por defecto"
+
+#: patterns/featured-news.php
+msgctxt "Pattern title"
+msgid "Featured News"
+msgstr "Noticias destacadas"
+
+#: patterns/cover-news.php
+msgctxt "Pattern title"
+msgid "Cover News"
+msgstr "Noticias de portada"
+
+#: patterns/blog-header-without-bg.php
+msgctxt "Pattern title"
+msgid "Blog Header Without BG"
+msgstr "Cabecera de blog sin fondo"
+
+#: patterns/archive-header-without-bg.php
+msgctxt "Pattern title"
+msgid "Archive Header Without BG"
+msgstr "Cabecera de archivo sin fondo"
+
+#: patterns/about-us.php
+msgctxt "Pattern title"
+msgid "About Us"
+msgstr "Acerca de nosotros"
+
+#: patterns/404-header.php
+msgctxt "Pattern title"
+msgid "404 Header"
+msgstr "Cabecera 404"
+
+#: patterns/sidebar.php:43
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: patterns/sidebar.php:27
+msgid "Categories"
+msgstr "Categorías"
+
+#: patterns/sidebar.php:20
+msgid "Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Maecenas odio lacus, dignissim sollicitudin finibus commodo, rhoncus et ante."
+msgstr "Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Maecenas odio lacus, dignissim sollicitudin finibus commodo, rhoncus et ante."
+
+#: patterns/latest-news.php:33
+msgid "View All"
+msgstr "Ver todo"
+
+#: patterns/latest-news.php:21
+msgid "Latest News"
+msgstr "Últimas noticias"
+
+#: patterns/hidden-404.php:10
+msgid "This page could not be found. Maybe try a search?"
+msgstr "No se pudo encontrar esta página. ¿Quizá quieras probar una búsqueda?"
+
+#: patterns/header-with-buttons.php:37
+msgid "Get Started"
+msgstr "Primeros pasos"
+
+#: patterns/header-with-buttons.php:34
+msgid "Log in"
+msgstr "Acceder"
+
+#: patterns/footer-three-columns.php:95 patterns/sidebar.php:35
+msgid "Recent Post"
+msgstr "Entrada reciente"
+
+#: patterns/footer-three-columns.php:82
+msgid "Opening Hours: 10:00 18:00"
+msgstr "Horario de apertura: 10:00 - 18:00"
+
+#: patterns/footer-three-columns.php:70
+msgid "info@companyname.com"
+msgstr "info@companyname.com"
+
+#: patterns/footer-three-columns.php:58
+msgid "(+880) 123 3456 7890"
+msgstr "(+880) 123 3456 7890"
+
+#: patterns/footer-three-columns.php:46
+msgid "374 FA Tower, Williams S Blvd. 2721, IL, USA"
+msgstr "374 Tower FA, Williams S Blvd. 2721, IL, EE.UU."
+
+#: patterns/footer-three-columns.php:36
+msgid "Contact"
+msgstr "Contacto"
+
+#: patterns/footer-three-columns.php:25
+msgid "Lorem ipsum dolor sit amet con sect etur adipiscing elit maecenas conse ctetur dapibus rutrum proin vitae nibh eget adipiscing elit maecenas cons."
+msgstr "Lorem ipsum dolor sit amet con sect etur adipiscing elit maecenas conse ctetur dapibus rutrum proin vitae nibh eget adipiscing elit maecenas cons."
+
+#: patterns/footer-three-columns.php:22
+msgid "About"
+msgstr "Acerca de"
+
+#: patterns/footer-default.php:17
+msgid "Y"
+msgstr "Y"
+
+#: patterns/footer-default.php:16
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s"
+msgstr "Copyright &copy; %1$s %2$s"
+
+#: patterns/blog-header-without-bg.php:18
+msgid "Recent From Blog"
+msgstr "Entradas recientes del blog"
+
+#: patterns/about-us.php:33
+msgid "Get started"
+msgstr "Primeros pasos"
+
+#: patterns/about-us.php:28
+msgid "Lorem ipsum dolor sit amet, consectetur Integer pretium condimentum tristique aenean luctus mauris lorem ipsum dolor sit amet consectetur."
+msgstr "Lorem ipsum dolor sit amet, consectetur Integer pretium condimentum tristique aenean luctus mauris lorem ipsum dolor sit amet consectetur."
+
+#: patterns/about-us.php:23
+msgid "Fresh ideas for every business"
+msgstr "Ideas frescas para cada negocio"
+
+#: inc/about.php:183 patterns/about-us.php:20
+msgid "About Us"
+msgstr "Acerca de nosotros"
+
+#: patterns/404-header.php:25
+msgid "Oops! That page can't be found"
+msgstr "¡Ups! No se puede encontrar esa página."
+
+#: patterns/404-header.php:22
+msgid "404 Nothing Found"
+msgstr "404 No se encuentra"
+
+#: inc/block-styles.php:53
+msgid "Plain"
+msgstr "Plano"
+
+#: inc/block-styles.php:44 inc/block-styles.php:62 inc/block-styles.php:71
+#: inc/block-styles.php:80 inc/block-styles.php:89 inc/block-styles.php:99
+#: inc/block-styles.php:109 inc/block-styles.php:118
+msgid "Theme Style"
+msgstr "Estilo del tema"
+
+#: inc/block-styles.php:35
+msgid "Gap Zero"
+msgstr "Brecha cero"
+
+#: inc/block-styles.php:26
+msgid "No Padding"
+msgstr "Sin relleno"
+
+#: inc/block-patterns.php:19
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/about.php:381
+msgid "Review"
+msgstr "Valoración"
+
+#: inc/about.php:380
+msgid "Loved BlockMag? Feel free to leave your feedback. Your opinion helps us reach more audiences!"
+msgstr "¿Te ha gustado BlockMag? No dudes en dejarnos tu comentario. ¡Tu opinión nos ayuda a llegar a más público!"
+
+#: inc/about.php:379
+msgid "Leave us a review"
+msgstr "Déjanos una valoración"
+
+#: inc/about.php:372
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/about.php:371
+msgid "Change log"
+msgstr "Registro de cambios"
+
+#: inc/about.php:370
+msgid "FSE FAQs"
+msgstr "FAQs de edición completa del sitio"
+
+#: inc/about.php:369
+msgid "View Demo"
+msgstr "Ver demo"
+
+#: inc/about.php:24 inc/about.php:368
+msgid "Theme Info"
+msgstr "Información del tema"
+
+#: inc/about.php:367
+msgid "Important Links"
+msgstr "Enlaces importantes"
+
+#: inc/about.php:86
+msgid "Buy BlockMag Pro"
+msgstr "Comprar BlockMag Pro"
+
+#: inc/about.php:85
+msgid "To get more beautiful block patterns and templates, we recommend you activate the BlockMag Pro. With the pro theme installed, get more options, blocks, block patterns, templates and template parts."
+msgstr "Para obtener más hermosos patrones de bloques y plantillas, te recomendamos actualizar a BlockMag Pro. Con el tema de pago instalado, obtén más opciones, bloques, patrones de bloques, plantillas y partes de plantillas."
+
+#: inc/about.php:84
+msgid "More Features with BlockMag Pro Theme"
+msgstr "Más características con el tema BlockMag Pro"
+
+#: inc/about.php:78
+msgid "Theme instructions"
+msgstr "Instrucciones del tema"
+
+#: inc/about.php:77
+msgid "Awesome! BlockMag has been installed and activated successfully. Now, you can start building your dream website with a wide range of highly-customizable block patterns, templates, and template parts available in this astounding theme."
+msgstr "¡Impresionante! BlockMag se instaló y activado correctamente. Ahora puedes empezar a construir la web de tus sueños con una amplia gama de patrones de bloques, plantillas y partes de plantillas altamente personalizables, disponibles en este asombroso tema."
+
+#: inc/about.php:76
+msgid "Getting Started with BlockMag!"
+msgstr "¡Primeros pasos con BlockMag!"
+
+#: inc/about.php:68
+msgid "Free Full Site Editing WordPress Theme"
+msgstr "Tema para WordPress con edición completa del sitio"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://catchthemes.com"
+msgstr "https://catchthemes.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://catchthemes.com/themes/blockmag"
+msgstr "https://catchthemes.com/themes/blockmag"

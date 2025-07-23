@@ -1,0 +1,205 @@
+# Translation of Themes - Blossom Beauty in Spanish (Chile)
+# This file is distributed under the same license as the Themes - Blossom Beauty package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-03-11 21:26:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_CL\n"
+"Project-Id-Version: Themes - Blossom Beauty\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Blossom Beauty is a child theme of Blossom Feminine free WordPress theme. This theme helps you create a visually appealing, lively and attractive blog without writing a single line of code. This theme can be the best choice if you want to share your expert fashion tips, your favorite recipes or create travel, beauty, food, coaching, make-up, portfolio, wedding, personal, girly or cooking blog. This theme comes with advanced customization option and features a built-in customizer to help you customize your website with live preview as per your desire. Blossom Beauty is a mobile friendly and fully responsive theme that ensures your website displays properly on any screen sizes. This theme also helps you increase your Instagram followers with the beautifully placed Instagram section. Also, the strategically placed newsletter section helps you grow your email list and communicate with your visitors. The advertisement widget of the theme helps you monetize your blog and earn revenue from it. Blossom Beauty is speed optimized and SEO friendly theme which helps your website rank higher in the search engine results. The theme is translation ready and supports RTL scripts. You can also create an online shop with this theme as it is fully compatible with the popular WooCommerce plugin. Blossom Beauty is backed by world-class, one-on-one support, and a super active team of developers and designers.Check demo: https://blossomthemes.com/theme-demo/?theme=blossom-beauty, read documentation: https://docs.blossomthemes.com/docs/blossom-beauty/, and get support: https://blossomthemes.com/support-ticket/."
+msgstr "Blossom Beauty es un subtema del tema gratuito para WordPress Blossom Feminine. Este tema te ayuda a crear un blog visualmente atractivo, animado y atractivo sin escribir una sola línea de código. Este tema puede ser la mejor opción si deseas compartir tus consejos expertos de moda, tus recetas favoritas o crear un blog de viajes, belleza, comida, entrenamiento, maquillaje, portafolio, bodas, personal, femenino o de cocina. Este tema viene con una opción de personalización avanzada y presenta un personalizador incorporado para ayudarte a personalizar tu web con una vista previa en vivo según tus deseos. Blossom Beauty es un tema amigable para dispositivos móviles y totalmente adaptable que garantiza que tu web se muestre correctamente en cualquier tamaño de pantalla. Este tema también te ayuda a aumentar tus seguidores de Instagram con la sección de Instagram bellamente ubicada. Además, la sección de boletines estratégicamente ubicada te ayuda a hacer crecer tu lista de correo electrónico y comunicarte con tus visitantes. El widget de publicidad del tema te ayuda a monetizar tu blog y obtener ingresos. Blossom Beauty es un tema optimizado para la velocidad y para el SEO que ayuda a que tu web tenga una clasificación más alta en los resultados del motor de búsqueda. El tema está preparado para traducciones y admite scripts RTL. También puedes crear una tienda online con este tema, ya que es totalmente compatible con el popular plugin WooCommerce. Blossom Beauty cuenta con el respaldo de un soporte personalizado de primera clase y un equipo muy activo de desarrolladores y diseñadores. Échale un vistazo a la demostración: https://blossomthemes.com/theme-demo/?theme=blossom-beauty, lee la documentación: https://docs.blossomthemes.com/docs/blossom-beauty/ y obtén soporte: https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Blossom Beauty"
+msgstr "Blossom Beauty"
+
+#: functions.php:226
+msgid "Flush Local Fonts Cache"
+msgstr "Vaciar la caché de las fuentes locales"
+
+#: functions.php:212
+msgid "Flush Local Font Files"
+msgstr "Vaciar los archivos de fuentes locales"
+
+#: functions.php:210
+msgid "Click the button to reset the local fonts cache"
+msgstr "Haz clic en el botón para restablecer la caché de fuentes locales"
+
+#: functions.php:202
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr "La precarga de las fuentes de Google acelerará la velocidad de tu web."
+
+#: functions.php:201
+msgid "Preload Local Fonts"
+msgstr "Precargar las fuentes locales"
+
+#: functions.php:182
+msgid "Enable to load google fonts from your own server instead from google's CDN. This solves privacy concerns with Google's CDN and their sometimes less-than-transparent policies."
+msgstr "Activa la carga de las fuentes de Google desde tu propio servidor en lugar de hacerlo desde la CDN de Google. Esto resuelve los problemas de privacidad con la CDN de Google y sus políticas a veces poco transparentes."
+
+#: functions.php:181
+msgid "Load Google Fonts Locally"
+msgstr "Cargar las fuentes de Google localmente"
+
+#: functions.php:452
+msgid "Close"
+msgstr "Cerrar"
+
+#: functions.php:449
+msgid "primary menu toggle button"
+msgstr "botón de activación del menú principal"
+
+#: functions.php:409 functions.php:468
+msgid "search toggle button"
+msgstr "botón de activación de búsqueda"
+
+#: functions.php:393 functions.php:453
+msgid "Mobile"
+msgstr "Móvil"
+
+#: functions.php:385
+msgid "secondary menu toggle button"
+msgstr "botón de activación del menú secundario"
+
+#: functions.php:347
+msgid "FOLLOW"
+msgstr "SEGUIR"
+
+#: functions.php:1067
+msgid " Blossom Beauty | Developed By "
+msgstr " Blossom Beauty | Desarrollado Por "
+
+#: functions.php:1070
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:1070
+msgid " Powered by %s"
+msgstr " Funciona con %s"
+
+#: functions.php:672
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "en"
+
+#: functions.php:671
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "en"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:670
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "en"
+
+#. translators: %s: post title
+#: functions.php:579
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#: functions.php:355
+msgid "Instagram Section Title"
+msgstr "Título de la sección Instagram"
+
+#: functions.php:334
+msgid "Choose the layout of the slider for your site."
+msgstr "Elige el diseño del carrusel para tu sitio."
+
+#: functions.php:312 functions.php:333
+msgid "Slider Layout"
+msgstr "Diseño del carrusel"
+
+#: functions.php:299
+msgid "This is the layout for header."
+msgstr "Este es el diseño de la cabecera."
+
+#: functions.php:277 functions.php:298
+msgid "Header Layout"
+msgstr "Diseño de la cabecera"
+
+#: functions.php:268
+msgid "Layout Settings"
+msgstr "Ajustes de diseño"
+
+#: functions.php:257
+msgid "Primary color of the theme."
+msgstr "Color principal del tema."
+
+#: functions.php:256
+msgid "Primary Color"
+msgstr "Color primario"
+
+#: functions.php:157
+msgid "Change the font size of your site."
+msgstr "Cambia el tamaño de la fuente de tu sitio."
+
+#: functions.php:156
+msgid "Font Size"
+msgstr "Tamaño de Fuente"
+
+#: functions.php:134
+msgid "Secondary font of the site."
+msgstr "Fuente secundaria del sitio."
+
+#: functions.php:133
+msgid "Secondary Font"
+msgstr "Fuente secundaria"
+
+#: functions.php:112
+msgid "Primary font of the site."
+msgstr "Fuente principal del sitio."
+
+#: functions.php:111
+msgid "Primary Font"
+msgstr "Fuente principal"
+
+#: functions.php:91
+msgid "Typography"
+msgstr "Tipografía"
+
+#: functions.php:83
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Personalizar la tipografía, imagen de cabecera e imagen de fondo"
+
+#: functions.php:82
+msgid "Appearance Settings"
+msgstr "Ajustes de apariencia"
+
+#: functions.php:64
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Enlace a la documentación: %1$sHaz clic aquí.%2$s"
+
+#: functions.php:62
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Enlace a la demostración: %1$sHaz clic aquí.%2$s"
+
+#: functions.php:49
+msgid "Demo & Documentation"
+msgstr "Demostración y documentación"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:1068
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/themes/blossom-beauty-free-wordpress-theme"
+msgstr "https://blossomthemes.com/themes/blossom-beauty-free-wordpress-theme"

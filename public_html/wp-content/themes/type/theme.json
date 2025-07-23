@@ -1,0 +1,127 @@
+{
+	"version": 2,
+	"settings": {
+		"appearanceTools": true,
+		"layout": {
+			"contentSize": "760px",
+			"wideSize": "1160px"
+		},
+		"spacing": {
+			"blockGap": true,
+			"units": ["%", "px", "em", "rem", "vh", "vw"]
+		},
+		"typography": {
+			"fontSizes": [
+				{
+					"fluid": false,
+					"name": "Small",
+					"size": "14px",
+					"slug": "small"
+				},
+				{
+					"fluid": false,
+					"name": "Normal",
+					"size": "16px",
+					"slug": "normal"
+				},
+				{
+					"fluid": false,
+					"name": "Medium",
+					"size": "18px",
+					"slug": "medium"
+				},
+				{
+					"fluid": false,
+					"name": "Large",
+					"size": "20px",
+					"slug": "large"
+				},
+				{
+					"fluid": false,
+					"name": "Larger",
+					"size": "24px",
+					"slug": "larger"
+				},
+				{
+					"fluid": false,
+					"name": "Extra Large",
+					"size": "32px",
+					"slug": "x-large"
+				},
+				{
+					"fluid": false,
+					"name": "Huge",
+					"size": "48px",
+					"slug": "huge"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/button": {
+				"variations": {
+					"outline": {
+						"spacing": {
+							"padding": {
+								"bottom": "4px",
+								"left": "18px",
+								"right": "18px",
+								"top": "4px"
+							}
+						},
+						"border": {
+							"width": "2px"
+						}
+					}
+				}
+			},
+			"core/separator": {
+				"border": {
+					"color": "#eeeeee",
+					"style": "solid",
+					"width": "0 0 1px 0"
+				},
+				"css": "&:not(.is-style-wide):not(.is-style-dots):not(.alignwide):not(.alignfull){width: 100px;border-bottom-width: 4px;}"
+			}
+		},
+		"color": {
+			"text": "#222"
+		},
+		"elements": {
+			"button": {
+				"border": {
+					"radius": "128px"
+				},
+				"color": {
+					"background": "#222",
+					"text": "#fff"
+				},
+				"spacing": {
+					"padding": {
+						"bottom": "6px",
+						"left": "20px",
+						"right": "20px",
+						"top": "6px"
+					}
+				}
+			},
+			"heading": {
+				"color": {
+					"text": "#000"
+				},
+				"typography": {
+					"fontFamily": "Poppins, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif"
+				}
+			}
+		},
+		"spacing": {
+			"blockGap": "20px"
+		},
+		"typography": {
+			"fontFamily": "Nunito Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif",
+			"fontSize": "18px",
+			"lineHeight": "1.75"
+		}
+	}
+}
